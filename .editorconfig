@@ -1,18 +1,12 @@
-root = true
+Hi [Contributor],
 
-[*]
-indent_style = space
-indent_size = 2
-end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
-curly_bracket_next_line = false
-spaces_around_operators = true
+Thank you for the pull request! 🚀 I've reviewed it, and it looks good overall.
 
-[*.{markdown,md}]
-trim_trailing_whitespace = false
+Please consider the following:
 
-[*.py]
-indent_size = 4
-quote_type = double
+1. **Code Quality:** Ensure the code meets our standards.
+2. **Testing:** Include relevant tests for the changes.
+3. **Documentation:** Update any necessary docs.
+
+Once you address these, we can merge your pull request. Feel free to ask if you have questions.
+
